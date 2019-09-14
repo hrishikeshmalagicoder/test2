@@ -11,5 +11,5 @@ public class ExerciseVersion {
     public static String getVersion() {
         logger.info("Exercise version " + VERSION_NUMBER);
         return VERSION_NUMBER;
-    }
+     }
 }
